@@ -12,8 +12,6 @@ This project is a Python script designed to validate an analysis method using di
 
 The script uses several Python packages to perform statistical analyses and generate reports with graphs.
 
----
-
 ## 1. Required Packages
 
 Before running this project, you need to install the following packages. You can install them easily using pip by running the following command in your terminal or command prompt:
