@@ -18,6 +18,7 @@ Before running this project, you need to install the following packages. You can
 
 ```bash
 pip install pandas numpy statsmodels scipy matplotlib python-docx pillow tk openpyxl
+```
 
 # List of Packages
 
