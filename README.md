@@ -1,3 +1,26 @@
+# Analysis Method Validation - README
+
+## Introduction
+
+This project is a Python script designed to validate an analysis method using different statistical criteria. It performs tests on the provided data and generates detailed reports in Word format. The validation criteria include:
+
+- **Linearity**: Validating the linear relationship between variables.
+- **Accuracy**: Validating the method's precision against reference values.
+- **Repeatability**: Validating the consistency and variability of measurements.
+- **Robustness**: Validating the stability of the method using a Hadamard matrix.
+- **Exactness**: Validating the method according to specified levels and tolerance limits.
+
+The script uses several Python packages to perform statistical analyses and generate reports with graphs.
+
+---
+
+## 1. Required Packages
+
+Before running this project, you need to install the following packages. You can install them easily using pip by running the following command in your terminal or command prompt:
+
+```bash
+pip install pandas numpy statsmodels scipy matplotlib python-docx pillow tk openpyxl
+
 # List of Packages
 
 - **pandas**: For data manipulation and analysis using DataFrames.
